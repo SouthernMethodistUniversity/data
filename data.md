@@ -1,16 +1,16 @@
 # Data Fundamentals
 
-Learning Objectives  
+## Learning Objectives  
 
-Upon completion, participants will be able to:  
+*Upon completion, participants will be able to:  
 
-Describe best practices for data management.  
+*Describe best practices for data management.  
 
-Implement file naming rules.  
+*Implement file naming rules.  
 
-Choose sustainable data formats.  
+*Choose sustainable data formats.  
 
-Structure using tidy data principles.  
+*Structure using tidy data principles.  
 
 
-adapt (https://pow123.github.io/UWI-Mona/02-starting-with-data.html) 
+[Data Fundamentals](https://pow123.github.io/UWI-Mona/02-starting-with-data.html) 
