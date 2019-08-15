@@ -22,11 +22,12 @@
 
 # Lessons for big data 
 
-* Lesson for Big Data handout <a href="https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf" target="_blank">Click here to Open PDF</a>
+* Lesson for Big Data handout <a href="https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf">Click here to Open PDF</a>
 
-[Lesson for Big Data handout](https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf "Click here to Open PDF") {target=_blank}
+[Lesson for Big Data handout](https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf "Click here to Open PDF") {:target=_blank}
 
-
+ <a href="http://example.com/" target="_blank">Hello, world!</a>
+ 
 [<<< Previous](yourdata.md) | [Next >>>](continue.md)  
 -----
 [Return to introduction](https://github.com/DHRISMU/data)
