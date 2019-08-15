@@ -20,11 +20,12 @@
 * “Feminist Data Visualization” (D’Ignazio & Klein, 2018) [FDV]
 
 
-# Lessons for Big data 
+# Lessons for big data 
 
 * Lesson for Big Data handout <a href="https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf" target="_blank">Click here to Open PDF</a>
 
-[Click here to Open PDF](https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf"){target=_blank}
+[Lesson for Big Data handout](https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf "Click here to Open PDF"){target=_blank}
+
 
 [<<< Previous](yourdata.md) | [Next >>>](continue.md)  
 -----
