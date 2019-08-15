@@ -1,3 +1,5 @@
+[Next >>>](power.md)  
+
 # Data in the humanities 
 
 Discussion/Roundtable 
@@ -9,12 +11,7 @@ What restrictions might we encounter: copyright, licensing, format, cleanliness,
 What ethical considerations might ensue? Is IRB sufficient or are there additional considerations?
 What does it mean to use data collected for one purpose for another purpose? What is left out? What humanities questions can you ask? 
 
-
-
-
-Big Data, Medium Data, Small Data
-Curated data, Clean data
-
+* Big Data, Medium Data, Small Data, Curated data, Clean data
 
 
 [Humanities Data in the Library: Integrity, Form, Access by Thomas Padilla](http://www.dlib.org/dlib/march16/padilla/03padilla.html)
@@ -25,14 +22,7 @@ Where traditional library objects like books, images, and audio clips begin to b
 *Stodden: to what extent are data and the code that generates data available to the user?
 *Risam: to what extent are the motivations driving all of the above available to the user?
 
-Additional follow up
-[Data Fundamentals](https://pow123.github.io/UWI-Mona/02-starting-with-data.html) 
-## Learning Objectives  
-*Upon completion, participants will be able to:  
-*data in the humanities 
-*Describe best practices for data management.  
-*Implement file naming rules.  
-*Choose sustainable data formats.  
-[Data Ethics](https://pow123.github.io/UWI-Mona/02-starting-with-data.html) 
-[Big? Smart? Clean? Messy? Data in the Humanities](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/) 
-[Data in DHQ](http://www.digitalhumanities.org/dhq/findIt?queryString=data+AND+idno%40type%3ADHQarticle-id)
+
+[Next >>>](power.md)  
+-----
+[Return to introduction](https://github.com/DHRISMU/data)
