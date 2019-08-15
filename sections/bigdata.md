@@ -22,7 +22,7 @@
 
 # Lessons for Big data 
 
-* Lesson for Big Data handout <a href="http://www.google.com" target="blank">google</a>
+* Lesson for Big Data handout <a href="https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf" target="blank">google</a>
 
 
 [<<< Previous](yourdata.md) | [Next >>>](continue.md)  
