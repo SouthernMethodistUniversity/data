@@ -24,6 +24,9 @@ Where traditional library objects like books, images, and audio clips begin to b
 * Stodden: to what extent are data and the code that generates data available to the user?
 * Risam: to what extent are the motivations driving all of the above available to the user?
 
+### Collaborative Viewing
+* [We measured pop music’s falsetto obsession - Vox Earworm](https://youtu.be/qJT2h5uGAC0)
+
 
 [Next >>>](power.md)  
 -----

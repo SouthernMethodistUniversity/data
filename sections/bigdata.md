@@ -22,7 +22,9 @@
 
 # Lessons for big data 
 
-[Lesson for Big Data handout: right click open in new tab](https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf)
+* [Lesson for Big Data handout: right click open in new tab or to download](https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf)
+
+*   Downald PDF for links to be active, they are not active when you view the file online. 
 
 
 [<<< Previous](yourdata.md) | [Next >>>](continue.md)  
