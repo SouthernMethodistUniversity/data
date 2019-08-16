@@ -18,6 +18,8 @@
 
 [Data Ethics](https://pow123.github.io/UWI-Mona/02-starting-with-data.html) 
 
+[A Duke study recorded thousands of students’ faces. Now they’re being used all over the world](https://www.dukechronicle.com/article/2019/06/duke-university-facial-recognition-data-set-study-surveillance-video-students-china-uyghur)
+
 [Big? Smart? Clean? Messy? Data in the Humanities](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/) 
 
 [Data in DHQ](http://www.digitalhumanities.org/dhq/findIt?queryString=data+AND+idno%40type%3ADHQarticle-id)
