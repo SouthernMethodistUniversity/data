@@ -5,6 +5,7 @@
 Discussion/Roundtable participants:
 * [Rafia Mirza, Humanities Librarian](http://guides.smu.edu/prf.php?account_id=142826)
 * [Eric Godat, Data Science Research Applications Developer](https://www.smu.edu/OIT/research)
+* [Aren Cambre, Director, Web Application Services](https://www.smu.edu/OIT/research)
 * [Jessie Zarazaga, Project Director, Initiative for Spatial Literacy](https://www.smu.edu/libraries/fondren/services/gis)
 
 
