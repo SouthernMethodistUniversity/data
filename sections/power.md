@@ -3,7 +3,7 @@
 # Data and power
 * What are the potentials? What are the big problems?
 
-## Different point of view 
+## Different points of view 
 
 ### Data as liberation
 “Liberation technology enables citizens to report news, expose wrongdoing, express opinions, mobilize protest, monitor elections, scrutinize government, deepen participation, and expand the horizons of freedom. But authoritarian states such as China, Belarus, and Iran have acquired (and shared) impressive technical capabilities to ﬁlter and control the Internet, and to identify and punish dissenters. Democrats and autocrats now compete to master these technologies. Ultimately, however, not just technology but political organization and strategy and deep-rooted normative, social, and economic forces will determine who ‘wins’ the race.” (Diamond, 2012)

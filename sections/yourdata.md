@@ -6,7 +6,7 @@
 
 ## Handout for data discussion 
 
-* [ Data discussion handout: right click open in new tab or to download](https://github.com/DHRISMU/data/blob/master/sections/handout-data.pdf)
+* [ Data discussion handout: right click open in new tab or to download](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/handout-data.pdf)
 
 
 [![tasks](https://github.com/DHRISMU/data/blob/master/images/datalifecycle.png)](https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf)

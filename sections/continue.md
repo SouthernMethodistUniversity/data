@@ -2,23 +2,23 @@
 
 # Following up
 
-## Resources at SMU and elsewhere
+## Resources at SMU 
 
-* [Research Data Management Support](https://www.smu.edu/libraries/fondren/services/data)
+* [Research Data Management Support @ SMU](https://www.smu.edu/libraries/fondren/services/data)
 
-* [High Performance Computing](https://www.smu.edu/OIT/Services/HPC)
+* [High Performance Computing @ SMU](https://www.smu.edu/OIT/Services/HPC)
+
+## Resources elsewhere
+
+* [Programming Historian lessons on data](https://programminghistorian.org/en/lessons/?search=data)
 
 * [DataBasic](https://databasic.io/en/)
 
 * [Data Fundamentals](https://pow123.github.io/UWI-Mona/02-starting-with-data.html) 
-## Learning Objectives  
-    * Upon completion, participants will be able to:  
-    * data in the humanities 
-    * Describe best practices for data management.  
-    * Implement file naming rules.  
-    * Choose sustainable data formats.  
 
 * [Data Ethics](https://pow123.github.io/UWI-Mona/02-starting-with-data.html) 
+
+# Readings from workshop
 
 * [A Duke study recorded thousands of students’ faces. Now they’re being used all over the world](https://www.dukechronicle.com/article/2019/06/duke-university-facial-recognition-data-set-study-surveillance-video-students-china-uyghur)
 
@@ -65,6 +65,7 @@ https://visualisingadvocacy.org
 * 	Thatcher J and R Burns. (2013) “Whither Small Data?: The Limits of “Big Data” and the Value of “Small Data” Studies.” Session at the National Meeting of the Association of American Geographers,	Los	Angeles,	CA,	April	12, 2013.http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=17195
 * 	Van Dijk, J. (2014). “Dataﬁcation, dataism, and dataveillance: Big Data between scientiﬁc paradigm and ideology.” Surveillance & Society 12(2): 197–208.
 * 	Wing, Jeanette M. (2019). “The Data Life Cycle,” Harvard Data Science Review 1. https://hdsr.mitpress.mit.edu/pub/577rq08d
+
 
 
 [<<< Previous](bigdata.md) 
