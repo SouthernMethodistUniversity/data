@@ -15,7 +15,7 @@
     * To what extent is information about Humanities data collection provenance, processing, and method of presentation available to the user? (Posner) 
     * To what extent are data and the code that generates data available to the user? (Stodden)
     * To what extent are the motivations driving all of the above available to the user? (Risam)
-            * [Humanities Data in the Library: Integrity, Form, Access by Thomas Padilla](http://www.dlib.org/dlib/march16/padilla/03padilla.html)
+           * [Humanities Data in the Library: Integrity, Form, Access by Thomas Padilla](http://www.dlib.org/dlib/march16/padilla/03padilla.html)
 
 ### Collaborative Viewing
 * [We measured pop music’s falsetto obsession - Vox Earworm](https://youtu.be/qJT2h5uGAC0)
