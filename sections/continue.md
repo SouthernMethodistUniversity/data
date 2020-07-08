@@ -2,27 +2,29 @@
 
 # Following up
 
-[Research Data Management Support](https://www.smu.edu/libraries/fondren/services/data)
+## Resources at SMU and elsewhere
 
-[High Performance Computing](https://www.smu.edu/OIT/Services/HPC)
+* [Research Data Management Support](https://www.smu.edu/libraries/fondren/services/data)
 
-[DataBasic](https://databasic.io/en/)
+* [High Performance Computing](https://www.smu.edu/OIT/Services/HPC)
 
-[Data Fundamentals](https://pow123.github.io/UWI-Mona/02-starting-with-data.html) 
+* [DataBasic](https://databasic.io/en/)
+
+* [Data Fundamentals](https://pow123.github.io/UWI-Mona/02-starting-with-data.html) 
 ## Learning Objectives  
-*Upon completion, participants will be able to:  
-*data in the humanities 
-*Describe best practices for data management.  
-*Implement file naming rules.  
-*Choose sustainable data formats.  
+    * Upon completion, participants will be able to:  
+    * data in the humanities 
+    * Describe best practices for data management.  
+    * Implement file naming rules.  
+    * Choose sustainable data formats.  
 
-[Data Ethics](https://pow123.github.io/UWI-Mona/02-starting-with-data.html) 
+* [Data Ethics](https://pow123.github.io/UWI-Mona/02-starting-with-data.html) 
 
-[A Duke study recorded thousands of students’ faces. Now they’re being used all over the world](https://www.dukechronicle.com/article/2019/06/duke-university-facial-recognition-data-set-study-surveillance-video-students-china-uyghur)
+* [A Duke study recorded thousands of students’ faces. Now they’re being used all over the world](https://www.dukechronicle.com/article/2019/06/duke-university-facial-recognition-data-set-study-surveillance-video-students-china-uyghur)
 
-[Big? Smart? Clean? Messy? Data in the Humanities](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/) 
+* [Big? Smart? Clean? Messy? Data in the Humanities](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/) 
 
-[Data in DHQ](http://www.digitalhumanities.org/dhq/findIt?queryString=data+AND+idno%40type%3ADHQarticle-id)
+* [Data in DHQ](http://www.digitalhumanities.org/dhq/findIt?queryString=data+AND+idno%40type%3ADHQarticle-id)
 
 # References 
 * 	Andrejevic Mark. (2014). “The Big Data divide.” International Journal of Communication 8: 1673–1689.
@@ -67,4 +69,4 @@ https://visualisingadvocacy.org
 
 [<<< Previous](bigdata.md) 
 -----
-[Return to introduction](https://github.com/DHRISMU/data)
+[Return to introduction](https://github.com/SouthernMethodistUniversity/data)

@@ -13,7 +13,7 @@
 “We believe ‘big data’ research can be similarly improved by working with, rather than denying the importance of, ‘small data’ (Kitchin  and Lauriault, 2014; Thatcher and Burns, 2013) and other existing approaches to research….Furthermore, doing critical work with ‘big data’ involves understanding not only data’s formal characteristics, but also the social context of the research amidst  shifting  technologies and broad social processes. Done right, ‘big’ and small data utilized in concert opens new possibilities: topics, methods, concepts, and meanings for what can be understood and done through research.” (Dalton & Thatcher, 2014)
 
 
-# [Ten simple rules for responsible big data research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5373508/)
+# Ten simple rules for responsible big data research
 1. Acknowledge that data are people and can do harm
 2. Recognize that privacy is more than a binary value
 3. Guard against the reidentification of your data
@@ -30,21 +30,20 @@ Zook, Matthew et al. “Ten simple rules for responsible big data research.” P
 
 
 ## Checklists, principles, examples
-* Data Ethics Decision Aid [DEDA]
-* Data Harm Record [DHR]
-* Data Science Ethics Checklist & Examples of Data Harms [Deon]
-* “Feminist Data Visualization” (D’Ignazio & Klein, 2018) [FDV]
+* Data Ethics Decision Aid [DEDA](https://dataschool.nl/deda/deda-for-research/?lang=en)
+* Data Harm Record [DHR](https://datajusticelab.org/data-harm-record/)
+* Data Science Ethics Checklist & Examples of Data Harms [Deon](https://deon.drivendata.org/)
+* “Feminist Data Visualization” (D’Ignazio & Klein, 2018) [FDV](https://visionscarto.net/feminist-data-visualization)
 
 
 # Lessons for big data 
 
 * [Lesson for Big Data handout: right click open in new tab or to download](https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf)
-
-*   Downald PDF for links to be active, they are not active when you view the file online. 
-    * We will do small groups discussion 
+    * Downald PDF for links to be active, they are not active when you view the file online. 
+ 
 
 
 
 [<<< Previous](yourdata.md) | [Next >>>](continue.md)  
 -----
-[Return to introduction](https://github.com/DHRISMU/data)
+[Return to introduction](https://github.com/SouthernMethodistUniversity/data)

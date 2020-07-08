@@ -10,6 +10,8 @@
 * Group brainstorming
 
 ----
+[Next >>>](sections/discussion.md)  
+----
 
 What you will find in this Repository
 
@@ -23,14 +25,9 @@ What you will find in this Repository
 
 [Your data project](sections/yourdata.md)  
 
-[Big Data](sections/bigdata.md)  
+[Lessons for Big Data](sections/bigdata.md)  
 
 [Follow up](sections/continue.md)
-
-
-
-Related Repositories:
-* [Glossary for all sessions](https://github.com/DHRI-Curriculum/glossary)
 
 -----
 

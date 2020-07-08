@@ -28,4 +28,5 @@
 
 [<<< Previous](discussion.md) | [Next >>>](dhdata.md)  
 -----
-[Return to introduction](https://github.com/DHRISMU/data)
+
+[Return to introduction](https://github.com/SouthernMethodistUniversity/data)
