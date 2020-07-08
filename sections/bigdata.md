@@ -38,7 +38,7 @@ Zook, Matthew et al. “Ten simple rules for responsible big data research.” P
 
 # Lessons for big data 
 
-* [Lesson for Big Data handout: right click open in new tab or to download](https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf)
+* [ To download the Lesson for Big Data handout as a PDF: click on this link, then click on Download button on top right of page](https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf)
     * Downald PDF for links to be active, they are not active when you view the file online. 
  
 
