@@ -14,6 +14,7 @@
 [![tasks](https://github.com/DHRISMU/data/blob/master/images/3challenges.png)](https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf)
 
 
+[Additional examples of stages  of date](https://github.com/DHRI-Curriculum/Data-and-Ethics/blob/master/sections/stages.md)
 
 [<<< Previous](dhdata.md) | [Next >>>](bigdata.md)  
 -----

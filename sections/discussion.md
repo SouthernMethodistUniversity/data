@@ -6,9 +6,12 @@
 ## When we discuss using data in humanities research, what questions do we need to ask about our data sets?
 * Do those sets even exist? 
 * Are they openly accessible? 
-* What restrictions might we encounter: copyright, licensing, format, cleanliness, 
-* What ethical considerations might ensue? Is IRB sufficient or are there additional considerations?
-* What does it mean to use data collected for one purpose for another purpose? What is left out? What humanities questions can you ask? 
+* What restrictions might we encounter: copyright, licensing, format, cleanliness,
+* What ethical considerations might ensue? Are Institutional Review Board (IRB) which are meant to provide oversight for research studies involving human subjects)ficient or are there additional considerations?
+    * SMU Research Compliance (https://www.smu.edu/Research/ResearchServices/ResearchCompliance)
+* What does it mean to use data collected for one purpose for another purpose? What is left out? 
+    * [What does platform data tell us?](https://points.datasociety.net/how-not-to-know-ourselves-5227c185569 )
+What humanities questions can you ask? 
     *  Big Data, Medium Data, Small Data, Curated data, Clean data
 
 * "Where traditional library objects like books, images, and audio clips begin to be explored as data, new considerations of integrity, form, and access come to the fore. **Integrity** refers to the documentation practices that ensure data are amenable to critical evaluation. **Form** refers to the formats and data structures that contain data users need to engage in a common set of activities. **Access** refers to technologies used to make data available for use."
