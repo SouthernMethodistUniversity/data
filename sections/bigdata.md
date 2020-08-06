@@ -24,7 +24,7 @@
 9. Engage with the broader consequences of data and analysis practices
 10. Know when to break these rules
 
-Zook, Matthew et al. “Ten simple rules for responsible big data research.” PLoS computational biology vol. 13,3 e1005399. 30 Mar. 2017, [doi:10.1371/journal.pcbi.1005399](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5373508/)
+Zook, Matthew et al. “Ten simple rules for responsible big data research.” PLoS computational biology vol. 13,3 e1005399. 30 Mar, 2017. [doi:10.1371/journal.pcbi.1005399](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5373508/)
 
 ## Checklists, principles, examples
 * Data Ethics Decision Aid: [DEDA](https://dataschool.nl/deda/deda-for-research/?lang=en)
