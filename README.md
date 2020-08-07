@@ -5,7 +5,7 @@
 ## Overview
 * Data and power
 * Encounters with DH data
-* Discussion of projects
+* Discussion of projects, forms and types of data
 * Lessons for “big data”
 * Group brainstorming
 
@@ -25,7 +25,7 @@ What you will find in this Repository
 
 [Your data project](sections/yourdata.md)  
 
-[Forms and Types of Data](sections/types.md
+[Forms and Types of Data](sections/types.md)
 
 [Lessons for Big Data](sections/bigdata.md)  
 
