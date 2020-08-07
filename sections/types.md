@@ -1,4 +1,4 @@
-[<<< Previous](forms.md) | [Next >>>](cleaned.md)
+[<<< Previous]()yourdata.md | [Next >>>](bigdata.md)  
 
 # Forms of Data
 
@@ -165,4 +165,7 @@ Look back at our example of cats to see how they may or may not follow those gui
 
  <sup>1</sup>Wickham, Hadley. "Tidy Data". Journal of Statistical Software.
 
-[<<< Previous](forms.md) | [Next >>>](cleaned.md)
+[<<< Previous](yourdata.md) | [Next >>>](bigdata.md)  
+-----
+
+[Return to introduction](https://github.com/SouthernMethodistUniversity/data)
