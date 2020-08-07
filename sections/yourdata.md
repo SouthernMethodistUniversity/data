@@ -1,4 +1,4 @@
-[<<< Previous](dhdata.md) | [Next >>>](bigdata.md)   
+[<<< Previous](dhdata.md) | [Next >>>](types.md)   
 
 # About your data project
 * What topic(s) do you want to focus on?
@@ -16,6 +16,6 @@
 
 [Additional examples of stages of data.](https://github.com/DHRI-Curriculum/Data-and-Ethics/blob/master/sections/stages.md)
 
-[<<< Previous](dhdata.md) | [Next >>>](bigdata.md)  
+[<<< Previous](dhdata.md) | [Next >>>](types.md)  
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/data)
