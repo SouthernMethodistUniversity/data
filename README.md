@@ -25,6 +25,8 @@ What you will find in this Repository
 
 [Your data project](sections/yourdata.md)  
 
+[Forms and Types of Data](sections/types.md
+
 [Lessons for Big Data](sections/bigdata.md)  
 
 [Follow up](sections/continue.md)
