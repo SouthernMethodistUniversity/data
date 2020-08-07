@@ -36,7 +36,7 @@ What you will find in this Repository
 Session Leaders:  [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) & [Jonathan McMichael](http://guides.smu.edu/prf.php?account_id=104877)
 * Written by Rafia Mirza. Edited by Joanna Russell Bliss
 
-* Mostly based on [Chris Alen Sula's work](http://chrisalensula.org/).[“Nuances of Data: What Can DH Contribute?” (https://docs.google.com/presentation/d/1JlKse8nv3KMTVi8QbwZPI1A6YUkXra1-ypltJRb9hZs/edit#slide=id.p) Association for Computers & Humanities, Pittsbugh, Penn., 24 July 2019.
+* Mostly based on [Chris Alen Sula's work](http://chrisalensula.org/).[“Nuances of Data: What Can DH Contribute?”](https://docs.google.com/presentation/d/1JlKse8nv3KMTVi8QbwZPI1A6YUkXra1-ypltJRb9hZs/edit#slide=id.p) Association for Computers & Humanities, Pittsbugh, Penn., 24 July 2019.
 Additional content from [Data and Data Ethics](https://github.com/DHRI-Curriculum/data-literacies)
  
 [![Creative Commons License](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
