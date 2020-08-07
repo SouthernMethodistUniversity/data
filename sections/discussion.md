@@ -12,7 +12,7 @@
     * Format
     * Cleanliness
 * What ethical considerations might ensue? Institutional Review Boards (IRB) are meant to provide oversight for research studies (involving human subjects). Are IRBs sufficient, or are there additional considerations?
-    * SMU Research Compliance (https://www.smu.edu/Research/ResearchServices/ResearchCompliance)
+    * [SMU Research Compliance](https://www.smu.edu/Research/ResearchServices/ResearchCompliance)
 * What does it mean to use data collected for one purpose for a different purpose? What is left out? 
     * [What does platform data tell us?](https://points.datasociety.net/how-not-to-know-ourselves-5227c185569 )
     * What humanities questions can you ask? 
