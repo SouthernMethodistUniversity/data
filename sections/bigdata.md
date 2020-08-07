@@ -1,4 +1,4 @@
-[<<< Previous](yourdata.md) | [Next >>>](continue.md)  
+[<<< Previous](types.md) | [Next >>>](continue.md)  
 
 # Lessons for “big data”
 ## What are the potentials? What are the big problems?
@@ -40,6 +40,6 @@ Zook, Matthew et al. “Ten simple rules for responsible big data research.” P
 
 
 
-[<<< Previous](yourdata.md) | [Next >>>](continue.md)  
+[<<< Previous](types.md) | [Next >>>](continue.md)  
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/data)
