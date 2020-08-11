@@ -6,7 +6,7 @@
 
 ## Handout for data discussion 
 
-* [ Data discussion handout: To download this PDF, click on this link, then click on Download button on top right of page.](https://github.com/SouthernMethodistUniversity/data/raw/master/sections/handoutdata.pdf)
+* [ Data discussion handout: To download this PDF, click on this link, it should automatically download.](https://github.com/SouthernMethodistUniversity/data/raw/master/sections/handoutdata.pdf)
 
 
 [![tasks](https://github.com/DHRISMU/data/blob/master/images/datalifecycle.png)](https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf)
