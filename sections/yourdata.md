@@ -1,8 +1,10 @@
 [<<< Previous](dhdata.md) | [Next >>>](types.md)   
 
 # About your data project
+:white_check_mark: We are going to focus our synchronous group discussion around this page.:white_check_mark: 
 * What topic(s) do you want to focus on?
 * What kind(s) of data will you need?
+* Do you already have a data set identified for use or are you looking to find or create one? 
 
 ## Handout for data discussion 
 

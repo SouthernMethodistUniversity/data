@@ -1,6 +1,7 @@
 # Data in the humanities 
 * When we talk about data in the humanities, what do we mean?
 [Big? Smart? Clean? Messy? Data in the Humanities](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/)
+* :yellow_circle:We will be discussion the contents of the repository in general and we will specifically be focusing our synchronous discussion on [your data.](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/yourdata.md):yellow_circle:
 
 ## Overview
 * Data and power
