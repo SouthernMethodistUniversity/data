@@ -4,7 +4,7 @@
 
 ## Lessons for big data 
 * [ To download the Lesson for Big Data handout as a PDF: click on this link, then click on Download button on top right of page.](https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf)
-    * Download PDF for links to be active; they are not active when you view the file online. 
+    * This version of the handout has additional content. Download the PDF for links to be active; they are not active when you view the file online. 
 
 ## Resources at SMU 
 

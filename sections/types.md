@@ -5,7 +5,7 @@
 * We begin without data. Then it is *observed*, or *made*, or *imagined*, or *generated.* After that, it goes through further transformations.
 
 ## Raw Data 
-* Raw data is yet to be processed, meaning it has yet to be manipulated by a human or computer. Received or collected data could be in any number of formats, locations, etc.. It could be in any of the forms listed below.
+* Raw data is yet to be processed, meaning it has yet to be manipulated by a human or computer. Received or collected data could be in any number of formats, locations, etc.. It could be in any of the forms listed [further down](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/types.md#forms-of-data).
 
 * But "raw data" is a relative term, inasmuch as when one person finishes processing data and presents it as a finished product, another person may take that product and work on it further, and for them that data is "raw data". 
 
@@ -170,5 +170,5 @@ Look back at our example of cats to see how they may or may not follow those gui
 
 [Return to introduction](https://github.com/SouthernMethodistUniversity/data)
 
-List of forms adapted from: [Georgia Tech] (https://libguides.gatech.edu/)
+List of forms adapted from: [Georgia Tech](https://libguides.gatech.edu/)
 <!-- now unpublished guide (http://libguides.gatech.edu/content.php?pid=123776&sid=3067221)!t --> 

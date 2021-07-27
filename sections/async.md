@@ -10,7 +10,7 @@
 ## :white_check_mark:Discussion Questions
 * On Slack please share your responses to the discussion questions below. Feel free to comment and respond to others comments. We will use these facilitate the discussion.
 
-Consider the question below and be prepared to share your responses during our discussion tomorrow:
+Consider the question below and be prepared to share your responses during our synchronous discussion :
 ## Their Data
 * Where did their data come from?
 * Is the data public?

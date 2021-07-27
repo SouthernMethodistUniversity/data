@@ -1,7 +1,7 @@
 [<<< Previous](viz.md) | [Next >>>](bigdata.md)  
 
 # Data and power
-What are the potentials? What are the big problems?
+What are the potentials of using data to solve problems or to advance research? What are the big problems or limitations?
 
 ## Different points of view 
 
