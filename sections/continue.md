@@ -2,6 +2,10 @@
 
 # Following up
 
+## Lessons for big data 
+* [ To download the Lesson for Big Data handout as a PDF: click on this link, then click on Download button on top right of page.](https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf)
+    * Download PDF for links to be active; they are not active when you view the file online. 
+
 ## Resources at SMU 
 
 * [Research Data Management Support @ SMU](https://www.smu.edu/libraries/fondren/services/data)
@@ -17,6 +21,8 @@
 * [Data Fundamentals](https://pow123.github.io/UWI-Mona/02-starting-with-data.html) 
 
 * [Data Ethics](https://pow123.github.io/UWI-Mona/02-starting-with-data.html) 
+
+* [Data life cycle introduction](https://github.com/SouthernMethodistUniversity/datalifecycle)
 
 # Readings from workshop
 

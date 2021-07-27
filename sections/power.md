@@ -1,4 +1,4 @@
-[<<< Previous](discussion.md) | [Next >>>](dhdata.md)  
+[<<< Previous](viz.md) | [Next >>>](bigdata.md)  
 
 # Data and power
 What are the potentials? What are the big problems?
@@ -9,7 +9,7 @@ What are the potentials? What are the big problems?
 “Liberation technology enables citizens to report news, expose wrongdoing, express opinions, mobilize protest, monitor elections, scrutinize government, deepen participation, and expand the horizons of freedom. But authoritarian states such as China, Belarus, and Iran have acquired (and shared) impressive technical capabilities to ﬁlter and control the Internet, and to identify and punish dissenters. Democrats and autocrats now compete to master these technologies. Ultimately, however, not just technology but political organization and strategy and deep-rooted normative, social, and economic forces will determine who ‘wins’ the race.” (Diamond, 2012)
 
 ### Data as advocacy, evidence
-* Advocacy through data (e.g., Visualising Information for Advocacy, 2013)
+* Advocacy through data (e.g., Visualizing Information for Advocacy, 2013)
 * Open/civic data
 * As government accountability/transparency (Hoffman, 2012)
 * BUT depends on volunteer labor, often addressed to governments and NGOs (Hooker, 2018) and belongs to the “data economy,” rather than being an act of critical transparency (Birchall, 2015)
@@ -25,7 +25,7 @@ What are the potentials? What are the big problems?
 (Liu, 2012)
 
 
-[<<< Previous](discussion.md) | [Next >>>](dhdata.md)  
+[<<< Previous](viz.md) | [Next >>>](bigdata.md)    
 -----
 
 [Return to introduction](https://github.com/SouthernMethodistUniversity/data)

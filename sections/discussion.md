@@ -1,7 +1,6 @@
-[<<< Previous](https://github.com/SouthernMethodistUniversity/data) | [Next >>>](power.md)  
+[<<< Previous](dhdata.md) | [Next >>>](viz.md)  
 
 # Data in the humanities 
-
 
 ## When we discuss using data in humanities research, what questions do we need to ask about our data sets?
 * Do those sets even exist? 
@@ -23,10 +22,10 @@
     * "To what extent are data and the code that generates data available to the user?" (Stodden cited by Padilla)
     * "To what extent are the motivations driving all of the above available to the user?" (Risam cited by Padilla)
 
-## Collaborative Viewing
+## :yellow_circle:Collaborative Viewing
 * [We measured pop music’s falsetto obsession - Vox Earworm](https://youtu.be/qJT2h5uGAC0)
 
 
-[<<< Previous](https://github.com/SouthernMethodistUniversity/data) | [Next >>>](power.md)  
+[<<< Previous](dhdata.md) | [Next >>>](viz.md)  
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/data)

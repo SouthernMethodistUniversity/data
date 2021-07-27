@@ -1,4 +1,4 @@
-[<<< Previous](power.md) | [Next >>>](yourdata.md)  
+[<<< Previous](types.md) | [Next >>>](discussion.md)  
 
 # DH and data
 ## How might DH approach data? What’s special about DH data?
@@ -19,7 +19,6 @@
 * Gender & race (Posner, 2015; McPherson, 2012)
 * Historical geographic information (Plewe 2002)
 
-
-[<<< Previous](power.md) | [Next >>>](yourdata.md)  
+[<<< Previous](types.md) | [Next >>>](discussion.md)   
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/data)

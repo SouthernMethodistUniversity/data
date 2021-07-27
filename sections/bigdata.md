@@ -1,4 +1,4 @@
-[<<< Previous](types.md) | [Next >>>](continue.md)  
+[<<< Previous](power.md) | [Next >>>](yourdata.md)  
 
 # Lessons for “big data”
 ## What are the potentials? What are the big problems?
@@ -32,14 +32,10 @@ Zook, Matthew et al. “Ten simple rules for responsible big data research.” P
 * Data Science Ethics Checklist & Examples of Data Harms :[Deon](https://deon.drivendata.org/)
 * “Feminist Data Visualization” (D’Ignazio & Klein, 2018): [FDV](https://visionscarto.net/feminist-data-visualization)
 
-## Lessons for big data 
+## Current events: ethical issues around large data sets.
+* [“On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?”](https://dl.acm.org/doi/10.1145/3442188.3445922) lays out the risks of large language models—AIs trained on staggering amounts of text data. These have grown increasingly popular—and increasingly large—in the last three years. They are now extraordinarily good, under the right conditions, at producing what looks like convincing, meaningful new text—and sometimes at estimating meaning from language. But, says the introduction to the paper, “we ask whether enough thought has been put into the potential risks associated with developing them and strategies to mitigate these risks.”[We read the paper that forced Timnit Gebru out of Google. Here’s what it says.](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/)
+* "... a system called GPT-3. It had ingested more training data than BERT and could generate impressively fluid text in genres spanning sonnets, jokes, and computer code. Some investors and entrepreneurs predicted that automated writing would reinvent marketing, journalism, and art.These new systems could also become fluent in unsavory language patterns, coursing with sexism, racism, or the tropes of ISIS propaganda. Training them required huge collections of text—BERT used 3.3 billion words and GPT-3 almost half a trillion—which engineers slurped from the web, the most readily available source with the necessary scale. But the data sets were so large that sanitizing them, or even knowing what they contained, was too daunting a task. It was an extreme example of the problem Gebru had warned against with her [Datasheets for Datasets](https://arxiv.org/abs/1803.09010) project. [What Really Happened When Google Ousted Timnit Gebru. She was a star engineer who warned that messy AI can spread racism. Google brought her in. Then it forced her out. Can Big Tech take criticism from within?](https://www.wired.com/story/google-timnit-gebru-ai-what-really-happened/)
 
-* [ To download the Lesson for Big Data handout as a PDF: click on this link, then click on Download button on top right of page.](https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf)
-    * Download PDF for links to be active; they are not active when you view the file online. 
- 
-
-
-
-[<<< Previous](types.md) | [Next >>>](continue.md)  
+[<<< Previous](power.md) | [Next >>>](yourdata.md)  
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/data)
