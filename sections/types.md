@@ -59,8 +59,9 @@ Tiger,Jaws/n
 ### The importance of using open data formats
 A small detour to discuss (the ethics of?) data formats. For accessibility, future-proofing, and preservation, keep your data in open, sustainable formats. A demonstration:
 
-1. Open [this file](cats.csv) in a text editor, and then in an app like Excel. This is a CSV, an open, text-only, file format.
-2. Now do the same with [this one](cats.xlsx). This is a proprietary format! 
+1. Click on [this link,](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/cats.zip) and then click on the Download option on the right hand side of the page. This will donald a .Zip file, which contains cats.csv. 
+2. Open this file in a text editor, and then in an app like Excel. This is a CSV, an open, text-only, file format.
+3. Now do the same with cats.xlsx. This is a proprietary format! 
 
 Sustainable formats are generally unencrypted, uncompressed, and follow an open standard. A small list:
 

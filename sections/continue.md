@@ -20,11 +20,9 @@
 
 * [Data Fundamentals](https://pow123.github.io/UWI-Mona/02-starting-with-data.html) 
 
-* [Data Ethics](https://pow123.github.io/UWI-Mona/02-starting-with-data.html) 
-
 * [Data life cycle introduction](https://github.com/SouthernMethodistUniversity/datalifecycle)
 
-## Readings from workshop
+## Additional Readings
 
 * [A Duke study recorded thousands of students’ faces. Now they’re being used all over the world](https://www.dukechronicle.com/article/2019/06/duke-university-facial-recognition-data-set-study-surveillance-video-students-china-uyghur)
 
