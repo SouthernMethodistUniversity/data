@@ -1,6 +1,6 @@
 [<<< Previous](async.md) 
 
-# Following up
+# :yellow_circle:Additional Resources:yellow_circle:
 
 ## Lessons for big data 
 * [ To download the Lesson for Big Data handout as a PDF: click on this link, then click on Download button on top right of page.](https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf)

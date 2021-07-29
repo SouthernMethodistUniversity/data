@@ -4,6 +4,7 @@
 
 * :white_check_mark:We’d like each of you to go to [The Pudding](https://pudding.cool/) and read one of their data journalism pieces. 
 * In their [archive](https://pudding.cool/archives/), you can choose by topic or type of chart, based on your interests. 
+* Once you have read an article, put the link in Slack, as well as some of your reflections. (One of us will post an example response in Slack that you can use as a template.) 
 
 * As you read, pay special attention to the following questions::white_check_mark:
 

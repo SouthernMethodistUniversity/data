@@ -4,13 +4,15 @@
 
 ## :white_check_mark: **Read the following before this session.**
 * We’d like each of you to go to [The Pudding](https://pudding.cool/) and read one of their data journalism pieces. 
-* What patterns have we started noticing? 
+* In their [archive](https://pudding.cool/archives/), you can choose by topic or type of chart, based on your interests. 
+* Once you have read an article, put the link in Slack, as well as some of your reflections. (One of us will post an example response in Slack that you can use as a template.)
 
   
 ## :white_check_mark:Discussion Questions
-* On Slack please share your responses to the discussion questions below. Feel free to comment and respond to others comments. We will use these facilitate the discussion.
+* *On Slack*
+* Post your article and reflections, and also using the [*reply in thread*](https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-) option on Slack, engage with other participants posts. 
 
-Consider the question below and be prepared to share your responses during our synchronous discussion :
+
 ## Their Data
 * Where did their data come from?
 * Is the data public?

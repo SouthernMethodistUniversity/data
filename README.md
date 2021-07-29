@@ -1,7 +1,7 @@
 # Data in the humanities 
 * When we talk about data in the humanities, what do we mean?
 [Big? Smart? Clean? Messy? Data in the Humanities](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/)
-* We will be discussion the contents of the repository in general and we will specifically be focusing our synchronous discussion on [your data.](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/yourdata.md)
+* We will be discussing the contents of the repository in general and we will specifically be focusing our synchronous discussion on [your data.](https://github.com/SouthernMethodistUniversity/data/blob/master/sections/yourdata.md)
 
 
 # Process for DHRI
@@ -9,11 +9,12 @@
 * This is the first year where DHRI has been planned to have both asynchronous and synchronous components. Here is how we have organized the content.  
    * As you are reading, we you will see *four* categories of content:
    * Asynchronous Content presentation (unmarked). Please read ahead of time.
-   * *Asynchronous Activity* (Indicated by green check mark :white_check_mark:). Please make sure you read this content before a session, and do the activity asynchronously in Slack.  
+   * *Asynchronous Activity* (Indicated by green check mark :white_check_mark:). Please make sure you read this content before a session. Some questions have corresponding Slack channels or discussion, others are just marked so you are thinking about them beforehand as they are topics we will be discussing in the synchronous session.  
    * Synchronous Content presentation (Indicated by a yellow dot:yellow_circle:). This indicates a page that has content we will go over together, you do not need to engage with this content ahead of time. 
    * Synchronous Activity (unmarked). We will do these activities together in the synchronous sessions.
 * As you read each repository please put questions/comments in the Slack channel. 
 * If text appears Blue in a Repository, that just means it is a hyperlink.
+    * These repositories are structured in such a way that they will direct our conversations during the institute, but also so that you can return to them later to review the material. .
 
 ## Required before this session (8/3/21)
 * All content is :white_check_mark: marked throughout, it is also all gathered on [this page](sections/async.md) 
