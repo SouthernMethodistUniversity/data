@@ -22,7 +22,7 @@
     * "To what extent are data and the code that generates data available to the user?" (Stodden cited by Padilla)
     * "To what extent are the motivations driving all of the above available to the user?" (Risam cited by Padilla)
 
-## :yellow_circle: Collaborative Viewing
+## :yellow_circle: Collaborative viewing :yellow_circle:
 * [We measured pop music’s falsetto obsession - Vox Earworm](https://youtu.be/qJT2h5uGAC0)
 
 
