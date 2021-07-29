@@ -1,6 +1,6 @@
 [<<< Previous](types.md) | [Next >>>](continue.md)  
 
-# Summary: **What to do before this synchronous Session**
+# Summary: **What to do before this synchronous session**
 
 ## :white_check_mark: **Read the following before this session.**
 * We’d like each of you to go to [The Pudding](https://pudding.cool/) and read one of their data journalism pieces. 
@@ -8,24 +8,24 @@
 * Once you have read an article, put the link in Slack, as well as some of your reflections. (One of us will post an example response in Slack that you can use as a template.)
 
   
-## :white_check_mark:Discussion Questions
+## :white_check_mark: Discussion questions
 * *On Slack*
 * Post your article and reflections, and also using the [*reply in thread*](https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-) option on Slack, engage with other participants posts. 
 
 
-## Their Data
+## Their data
 * Where did their data come from?
 * Is the data public?
 * How big was the data? Did they use all of it?
 
-## Their Analysis
+## Their analysis
 * What is their thesis statement?
 * What was their hypothesis?
 * What choices did they make as the analysis developed?
 * Were there caveats or ramifications to their choices?
 * What were their conclusions?
 
-## Their Visualizations
+## Their visualizations
 * What types of visualizations did they use?
 * Did the visualization help or hurt the arguments they made?
 * Was the visualization distracting or confusing?
