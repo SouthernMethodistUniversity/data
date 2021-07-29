@@ -30,7 +30,7 @@
 [Next >>>](sections/types.md)  
 ----
 
-What you will find in this Repository
+What you will find in this repository.
 
 -----
 [Forms and Types of Data](sections/types.md)
