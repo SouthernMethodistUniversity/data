@@ -1,6 +1,6 @@
 [<<< Previous](async.md) 
 
-# :yellow_circle:Additional Resources:yellow_circle:
+# :yellow_circle: Additional resources :yellow_circle:
 
 ## Lessons for big data 
 * [ To download the Lesson for Big Data handout as a PDF: click on this link, then click on Download button on top right of page.](https://github.com/DHRISMU/data/blob/master/sections/bigdatalessons.pdf)
@@ -24,7 +24,7 @@
 
 * [Data life cycle introduction](https://github.com/SouthernMethodistUniversity/datalifecycle)
 
-# Readings from workshop
+## Readings from workshop
 
 * [A Duke study recorded thousands of students’ faces. Now they’re being used all over the world](https://www.dukechronicle.com/article/2019/06/duke-university-facial-recognition-data-set-study-surveillance-video-students-china-uyghur)
 
@@ -32,7 +32,7 @@
 
 * [Data in DHQ](http://www.digitalhumanities.org/dhq/findIt?queryString=data+AND+idno%40type%3ADHQarticle-id)
 
-# References 
+## References 
 * 	Andrejevic Mark. (2014). “The Big Data divide.” *International Journal of Communication* 8: 1673–1689.
 * 	Bauman, Z and Lyon, David. (2013). *Liquid Surveillance.* London: Polity Press.
 * 	Birchall, Clare (2015). "'Data.gov-in-a-box': Delimiting transparency." *European Journal of Social Theory* 18 (2015): 185–202.
