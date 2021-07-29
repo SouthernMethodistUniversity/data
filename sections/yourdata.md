@@ -1,10 +1,10 @@
 [<<< Previous](yourdata.md) | [Next >>>](async.md)   
 
-# :yellow_circle: About your data project
-* We are going to focus our synchronous group discussion around this page.
-    * What topic(s) do you want to focus on?
-    * What kind(s) of data will you need?
-    * Do you already have a data set identified for use or are you looking to find or create one? 
+# :yellow_circle: About your data project :yellow_circle:
+We are going to focus our synchronous group discussion around this page.
+* What topic(s) do you want to focus on?
+* What kind(s) of data will you need?
+* Do you already have a data set identified for use or are you looking to find or create one? 
 
 ## Handout for data discussion 
 
