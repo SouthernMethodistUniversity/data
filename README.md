@@ -1,3 +1,5 @@
+This repo has been archived. Please see the [SMU@DHRI website](https://www.smu.edu/dhri) for the most current information.    
+
 # Data in the humanities 
 * When we talk about data in the humanities, what do we mean?
 [Big? Smart? Clean? Messy? Data in the Humanities](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/)
